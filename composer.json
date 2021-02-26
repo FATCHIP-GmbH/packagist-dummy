@@ -1,0 +1,6 @@
+{
+    "name": "fatchip-gmbh/packagist-dummy",
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
